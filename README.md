@@ -1,2 +1,4 @@
 # wordpress_docker
-Nginx + Wordpress + phpmyadmin
+
+Start:
+docker compose up -d
