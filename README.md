@@ -1,7 +1,8 @@
 # wordpress_docker
 
-Start:
+## Star:
 docker compose up -d
 
-http://localhost/ - wordpress
+## Endpoints:
+http://localhost/ - wordpress<br>
 http://localhost:8081/ - phpmyadmin
