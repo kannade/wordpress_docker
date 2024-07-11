@@ -1,7 +1,7 @@
 # wordpress_docker
 
 ## Star:
-docker compose up -d
+docker-compose up -d
 
 ## Endpoints:
 http://localhost/ - wordpress<br>
